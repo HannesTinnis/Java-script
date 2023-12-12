@@ -1,4 +1,4 @@
-console.log("hej")
+console.log("hello world")
 const btnHello = document.getElementById("demmo")
 const btn = document.getElementById("button")
 function myFunctionn() {
